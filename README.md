@@ -2,4 +2,4 @@
 Game made with Unity.
 
 ## Demo
-[https://cauemelo.dev/solarum](https://cauemelo.dev/solarum)
+[https://caucau.itch.io/solarum](https://caucau.itch.io/solarum)
